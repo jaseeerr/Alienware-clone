@@ -1,0 +1,647 @@
+*
+{
+    zoom:75%;
+}
+body
+{
+    margin: 0;
+    padding: 0;
+    
+
+}
+header{
+    width: 100%;
+    position: fixed;
+    background-color: #222222;
+    height: 85px;
+    float: left;
+}
+
+.logo1
+{
+    height: 40px;
+    width: 28px;
+    margin-left: 189px;
+    margin-top: 21px;
+    float: left;
+}
+
+.nav
+{
+    float: left;
+    margin-top: 0px;
+    margin-left: -12px;
+    width: 900px;
+
+}
+
+.nav-item
+{
+
+  margin-left: 50px;
+  margin-top: 40px;
+  text-decoration: none;
+  color: #fff;
+  font-size: 14px;
+  letter-spacing: 2px;
+font-family: "Open Sans", Arial, Helvetica, sans-serif;
+}
+
+
+
+.one
+{
+    background-color: #fff;
+    width: 100%;
+    height: 150px;
+    margin-top: 65px;
+    
+    float: left;
+    background-size: cover;
+    background-position: center;
+}
+
+.one p
+{
+    font-family: 'Open Sans',Arial,Helvetica,sans-serif;
+    margin-left: 1499px;
+    padding-top: 23px;
+    width: 100px;
+    font-size: 12px;
+    color: 444444;
+    letter-spacing: 0.8px;
+    float: left;
+  
+}
+
+.one-img
+{
+    margin-top: 40px;
+}
+
+
+
+section
+{
+  width: 100%;
+  height: 850px;
+
+  background-position: center;
+  background-size: cover;
+  background-repeat: no-repeat;
+
+}
+
+.h1
+{
+    margin-left: 1085px;
+    margin-top: -5px;
+    width: 900px;
+    position: absolute;
+    top:500px;
+    right:50px;
+    left:-30px;
+    font-family: 'Open Sans',Arial,Helvetica,sans-serif;
+line-height: 32px;
+font-size: 28px;
+letter-spacing: 0.8px;
+color: #444444;
+
+}
+
+.p1
+{
+    margin-left: 1087px;
+    margin-top: -5px;
+    position: absolute;
+    top:530px;
+    right:50px;
+    left:-30px;
+    
+    font-family: 'Open Sans',Arial,Helvetica,sans-serif;
+line-height: 24px;
+font-size: 16px;
+letter-spacing: 0.8px;
+color: #444444;
+}
+
+.content1 a
+{
+    position: absolute;
+    top:570px;
+    left:1039px;
+    font-family: 'Open Sans',Arial,Helvetica,sans-serif;
+    line-height: 24px;
+
+    border: rgb(0, 0, 0);
+    border-style: groove;
+    padding: 10px 35px 10px 35px;
+    letter-spacing: 0.8px;
+
+ 
+    text-decoration: none;
+    color: #444444;
+    font-weight: bold;
+
+
+}
+.content1 a:hover
+{
+    position: absolute;
+    top:570px;
+    left:1039px;
+    font-family: 'Open Sans',Arial,Helvetica,sans-serif;
+    line-height: 24px;
+
+    border: rgb(0, 0, 0);
+    border-style: hidden;
+    padding: 10px 35px 10px 35px;
+    letter-spacing: 0.8px;
+
+ 
+    text-decoration: none;
+    color: #ffffff;
+    background-color: #444444;
+    font-weight: bold;
+
+
+}
+
+
+.h3
+{
+    color: #fff;
+    position: absolute;
+    top:1191px;
+    left:1092px;
+    font-size: 28px;
+    line-height: 32px;
+    font-family: 'Open Sans',Arial,Helvetica,sans-serif;
+}
+
+
+.left3 
+{
+    width: 50%;
+    height: 500px;
+    background-image:url('images/poster3left.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
+    float: left;
+    filter: brightness(50%);
+    transition: filter 0.25s ease;
+    
+}
+.left3:hover
+{
+    filter: brightness(100%);
+  
+    
+  
+}
+
+.left3 h3{
+    margin-left: 350px;
+    margin-top: 230px;
+    color: #fff;
+    font-family: 'Open Sans',Arial,Helvetica,sans-serif;
+    letter-spacing: 1px;
+    font-size: 29px;
+}
+
+
+
+.right3
+{
+    width: 50%;
+    height: 500px;
+    background-image:url('images/poster3right.avif');
+    background-repeat: no-repeat;
+    background-size: cover;
+    float: left;
+    filter: brightness(50%);
+    transition: filter 0.25s ease;
+
+}
+
+.right3 h3{
+    margin-left: 350px;
+    margin-top: 230px;
+    color: #fff;
+    font-family: 'Open Sans',Arial,Helvetica,sans-serif;
+    letter-spacing: 1px;
+    font-size: 29px;
+}
+
+.right3:hover
+{
+    filter: brightness(100%);
+  
+}
+
+.poster4
+{
+    float: left;
+    width: 100%;
+    height: 650px;
+    background-repeat: no-repeat;
+    background-position: center center;
+    background-size: cover;
+}
+
+.left4
+{
+    width: 50%;
+    height: 650px;
+}
+.right4
+{
+    width: 50%;
+    height: 650px;
+}
+.right4 h2{
+    font-size: 28px;
+    position: absolute;
+    top:2400px;
+    left:1100px;
+    color: #444444;
+    font-family: "Open Sans", Arial, Helvetica, sans-serif;
+    letter-spacing: 1px;    
+}
+
+.right4 p{
+    font-size: 18px;
+    width: 650px;
+    position: absolute;
+    top:2450px;
+    left:1100px;
+    color: #444444;
+    font-family: "Open Sans", Arial, Helvetica, sans-serif;
+    letter-spacing: 1px;    
+}
+.right4 a{
+    
+    position: absolute;
+    top:2550px;
+    left:1085px;
+    font-family: 'Open Sans',Arial,Helvetica,sans-serif;
+    line-height: 24px;
+    border: #444444;
+    border-style: groove;
+    padding: 10px 35px 10px 35px;
+    letter-spacing: 0.8px;
+    text-decoration: none;
+    color: #444444;
+    font-weight: bold;
+}
+.right4 a:hover
+{
+    background-color: #444444;
+    color: #fff;
+    border-style: none;
+}
+
+.poster5    
+{
+    float: left;
+    width: 100%;
+    height: 680px;
+    background-repeat: no-repeat;
+    background-position: center center;
+    background-size: cover;
+}
+
+.left5
+{
+    width: 50%;
+    height: 680px;
+}
+
+.left5 h2{
+    font-size: 28px;
+    position: absolute;
+    top:3050px;
+    left:340px;
+    color: #444444;
+    font-family: "Open Sans", Arial, Helvetica, sans-serif;
+    letter-spacing: 1px;    
+}
+
+.left5 p{
+    font-size: 18px;
+    width: 600px;
+    position: absolute;
+    top:3100px;
+    left:340px;
+    color: #444444;
+    font-family: "Open Sans", Arial, Helvetica, sans-serif;
+    letter-spacing: 1px;    
+}
+
+.left5 a{
+    
+    position: absolute;
+    top:3200px;
+    left:325px;
+    font-family: 'Open Sans',Arial,Helvetica,sans-serif;
+    line-height: 24px;
+    border: #444444;
+    border-style: groove;
+    padding: 10px 35px 10px 35px;
+    letter-spacing: 0.8px;
+    text-decoration: none;
+    color: #444444;
+    font-weight: bold;
+}
+.left5 a:hover
+{
+    background-color: #444444;
+    color: #fff;
+    border-style: none;
+    padding: 10px 35px 10px 35px;
+}
+
+.poster6    
+{
+    float: left;
+    width: 100%;
+    height: 680px;
+    background-repeat: no-repeat;
+    background-position: center center;
+    background-size: cover;
+}
+
+.left6
+{
+    height: 680px;
+    width: 50%;
+}
+.right6
+{
+    height: 680px;
+    width: 50%;
+}
+
+.right6 h2{
+    font-size: 28px;
+    position: absolute;
+    top:3750px;
+    margin-left: 1000px;
+    color: #444444;
+    font-family: "Open Sans", Arial, Helvetica, sans-serif;
+    letter-spacing: 1px;    
+}
+
+.right6 p{
+    font-size: 18px;
+    width: 600px;
+    position: absolute;
+    top:3800px;
+    left:1006px;
+    color: #444444;
+    font-family: "Open Sans", Arial, Helvetica, sans-serif;
+    letter-spacing: 1px;    
+}
+
+.right6 a{
+    
+    position: absolute;
+    top:3890px;
+    left:993px;
+    font-family: 'Open Sans',Arial,Helvetica,sans-serif;
+    line-height: 24px;
+    border: #444444;
+    border-style: groove;
+    padding: 10px 35px 10px 35px;
+    letter-spacing: 0.8px;
+    text-decoration: none;
+    color: #444444;
+    font-weight: bold;
+}
+.right6 a:hover
+{
+    background-color: #444444;
+    color: #fff;
+    border-style: none;
+    padding: 10px 35px 10px 35px;
+}
+
+.poster7    
+{
+    float: left;
+    width: 100%;
+    height: 680px;
+    background-repeat: no-repeat;
+    background-position: center center;
+    background-size: cover;
+}
+
+.left7
+{
+    height: 680px;
+    width: 50%;
+}
+.right7
+{
+    height: 680px;
+    width: 50%;
+}
+
+.right7 h2{
+    font-size: 28px;
+    position: absolute;
+    top:4420px;
+    margin-left: 1030px;
+    color: #444444;
+    font-family: "Open Sans", Arial, Helvetica, sans-serif;
+    letter-spacing: 1px;    
+}
+
+.right7 p{
+    font-size: 18px;
+    width: 600px;
+    position: absolute;
+    top:4470px;
+    left:1037px;
+    color: #444444;
+    font-family: "Open Sans", Arial, Helvetica, sans-serif;
+    letter-spacing: 1px;    
+}
+
+.right7 a{
+    
+    position: absolute;
+    top:4560px;
+    left:1022px;
+    font-family: 'Open Sans',Arial,Helvetica,sans-serif;
+    line-height: 24px;
+    border: #444444;
+    border-style: groove;
+    padding: 10px 35px 10px 35px;
+    letter-spacing: 0.8px;
+    text-decoration: none;
+    color: #444444;
+    font-weight: bold;
+}
+.right7 a:hover
+{
+    background-color: #444444;
+    color: #fff;
+    border-style: none;
+    padding: 10px 35px 10px 35px;
+}
+
+
+
+
+.poster8    
+{
+    float: left;
+    width: 100%;
+    height: 680px;
+    background-repeat: no-repeat;
+    background-position: center center;
+    background-size: cover;
+   
+}
+
+.left8
+{
+    height: 680px;
+    width: 50%;
+}
+
+.left8 h2{
+    font-size: 28px;
+    position: absolute;
+    top:5120px;
+    left: 380px;
+    color: #ffffff;
+    font-family: "Open Sans", Arial, Helvetica, sans-serif;
+    letter-spacing: 1px;    
+}
+
+.left8 p{
+    font-size: 18px;
+    width: 600px;
+    position: absolute;
+    top:5165px;
+    left:383px;
+    color: #ffffff;
+    font-family: "Open Sans", Arial, Helvetica, sans-serif;
+    letter-spacing: 1px;    
+}
+
+.left8 a{
+    
+    position: absolute;
+    top:5260px;
+    left:367px;
+    font-family: 'Open Sans',Arial,Helvetica,sans-serif;
+    line-height: 24px;
+    border: #ffffff;
+    border-style: groove;
+    padding: 10px 35px 10px 35px;
+    letter-spacing: 0.8px;
+    text-decoration: none;
+    color: #ffffff;
+    font-weight: bold;
+}
+.left8 a:hover
+{
+    background-color: #ffffff;
+    color: #444444;
+    border-style: hidden;
+    padding: 10px 35px 10px 35px;
+}
+
+.container
+{
+    padding-left: 5px;
+    padding-right: 5px;
+}
+
+.footer
+{
+    
+    float: left;
+    background-color: #222222;
+    width: 100%;
+    height: 1000px;
+    
+}
+
+.left-text
+{
+    font-family: "Open Sans", Arial, Helvetica, sans-serif;
+    color: #fff;
+    font-size: 12px;
+    line-height: 20px;
+    letter-spacing: 1px;
+    font-weight: 500;
+    margin-top: 100px;
+    margin-left: 170px;
+    width: 50%;
+  
+
+}
+.left-text a
+{
+    font-family: "Open Sans", Arial, Helvetica, sans-serif;
+    text-decoration: none;
+    color: #fff;
+    float: left;
+   
+    
+}
+
+
+.right-logo
+{
+    float: left;
+    width: 50%;
+    margin-left: 1000px;
+}
+
+.icons
+{
+    width: 35px;
+    height: 35px;
+    
+}
+
+li, a
+{
+   display: inline-block;
+   margin-left:15px;
+}
+
+ul{
+    margin-left: 450px;
+    margin-top: -45px;
+    
+
+}
+
+.footer-logo
+{
+    margin-left: -180px;
+    margin-top: 100px;
+}
+
+.footer-text
+{
+    color: #848484;
+    margin-left: -650px;
+    font-family: "Open Sans", Arial, Helvetica, sans-serif;
+    margin-top: 150px;
+    width: 1250px;
+    letter-spacing: 1px;
+    font-size: 13px;
+
+}
+
+#a1:hover{
+    text-decoration: underline;
+    cursor: pointer;
+}
